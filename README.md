@@ -123,5 +123,4 @@ This project is licensed under the **MIT License**.
 
 ## 👤 Author
 **Abdul-Rehman**  
- Email: justworknotalk2007@gmail.com  
  GitHub: [C0ding-Craze](https://github.com/C0ding-Craze)  
