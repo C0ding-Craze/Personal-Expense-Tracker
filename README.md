@@ -48,17 +48,8 @@ It’s lightweight, user-friendly, and runs entirely in the terminal! 🚀
 Clone the repository:  
 ```bash
 git clone https://github.com/your-username/expense-tracker.git
-cd expense-tracker
-```
 
-(Optional) Create a virtual environment:  
-```bash
-python -m venv venv
-source venv/bin/activate   # On Linux/Mac
-venv\Scripts\activate      # On Windows
 ```
-
----
 
 ## 🚀 Usage
 
