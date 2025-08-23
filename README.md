@@ -47,7 +47,7 @@ It’s lightweight, user-friendly, and runs entirely in the terminal! 🚀
 
 Clone the repository:  
 ```bash
-git clone https://github.com/your-username/expense-tracker.git
+https://github.com/C0ding-Craze/Personal-Expense-Tracker.git
 
 ```
 
